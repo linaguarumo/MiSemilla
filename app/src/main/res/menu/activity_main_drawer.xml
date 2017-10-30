@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_local_florist_black_24dp"
+            android:title="Mi Semilla" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_rowing_black_24dp"
+            android:title="¿Que puedo Plantar" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_dehaze_black_24dp"
+            android:title="Tipos de Suelo" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_border_clear_black_24dp"
+            android:title="Listado de Semillas" />
+    </group>
+
+    <item android:title="General">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_person_black_24dp"
+                android:title="Perfil" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_exit_to_app_black_24dp"
+                android:title="Cerrar Sesion" />
+        </menu>
+    </item>
+
+</menu>

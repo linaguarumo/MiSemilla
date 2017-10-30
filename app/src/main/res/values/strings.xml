@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MiSemillaFinal</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">564991893832706</string>
+
+    <string name="correo">Correo</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="registrese">Registrese</string>
+    <string name="repcontraseña">Repetir Contraseña</string>
+    <string name="registrar">Registrar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
